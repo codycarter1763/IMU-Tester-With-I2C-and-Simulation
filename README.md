@@ -1,1 +1,1 @@
-# IMU-Tester-With-I2C-and-Simulation
+# IMU Tester With I2C and Simulation
